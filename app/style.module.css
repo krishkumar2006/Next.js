@@ -1,0 +1,29 @@
+.heading{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+    background-color: rgb(114, 19, 19);
+    font-size: large;
+    font-weight: 700;
+    height: 50px;
+    
+}
+
+
+.page{
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+    text-decoration:underline;
+    list-style-type: disc;
+}
+.list {
+    text-decoration: underline;
+}
+.list:hover{
+    
+    color: blue;
+    
+}
